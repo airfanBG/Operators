@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\circlePerimeterArea\bin\Debug\circlePerimeterArea.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\circlePerimeterArea\bin\Debug\circlePerimeterArea.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\circlePerimeterArea\bin\Debug\circlePerimeterArea.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\circlePerimeterArea\obj\Debug\circlePerimeterArea.csprojResolveAssemblyReference.cache
+D:\programming\3.Input-output console\Intro-Programming-Homework\circlePerimeterArea\obj\Debug\circlePerimeterArea.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\circlePerimeterArea\obj\Debug\circlePerimeterArea.pdb

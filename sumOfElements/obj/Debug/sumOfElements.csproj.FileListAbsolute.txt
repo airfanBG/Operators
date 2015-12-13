@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfElements\bin\Debug\sumOfElements.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfElements\bin\Debug\sumOfElements.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfElements\bin\Debug\sumOfElements.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfElements\obj\Debug\sumOfElements.csprojResolveAssemblyReference.cache
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfElements\obj\Debug\sumOfElements.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfElements\obj\Debug\sumOfElements.pdb

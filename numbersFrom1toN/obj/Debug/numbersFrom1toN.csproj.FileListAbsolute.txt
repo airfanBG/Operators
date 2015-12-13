@@ -1,0 +1,5 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\numbersFrom1toN\bin\Debug\numbersFrom1toN.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\numbersFrom1toN\bin\Debug\numbersFrom1toN.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\numbersFrom1toN\bin\Debug\numbersFrom1toN.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\numbersFrom1toN\obj\Debug\numbersFrom1toN.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\numbersFrom1toN\obj\Debug\numbersFrom1toN.pdb

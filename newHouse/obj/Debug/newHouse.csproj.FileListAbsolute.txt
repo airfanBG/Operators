@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\newHouse\bin\Debug\newHouse.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\newHouse\bin\Debug\newHouse.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\newHouse\bin\Debug\newHouse.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\newHouse\obj\Debug\newHouse.csprojResolveAssemblyReference.cache
+D:\programming\3.Input-output console\Intro-Programming-Homework\newHouse\obj\Debug\newHouse.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\newHouse\obj\Debug\newHouse.pdb

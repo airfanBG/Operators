@@ -1,0 +1,5 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\QuadricEquation\bin\Debug\QuadricEquation.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\QuadricEquation\bin\Debug\QuadricEquation.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\QuadricEquation\bin\Debug\QuadricEquation.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\QuadricEquation\obj\Debug\QuadricEquation.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\QuadricEquation\obj\Debug\QuadricEquation.pdb

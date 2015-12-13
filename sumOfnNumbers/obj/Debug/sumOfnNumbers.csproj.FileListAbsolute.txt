@@ -1,0 +1,5 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfnNumbers\bin\Debug\sumOfnNumbers.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfnNumbers\bin\Debug\sumOfnNumbers.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfnNumbers\bin\Debug\sumOfnNumbers.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfnNumbers\obj\Debug\sumOfnNumbers.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumOfnNumbers\obj\Debug\sumOfnNumbers.pdb

@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\formattingNumbers\bin\Debug\formattingNumbers.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\formattingNumbers\bin\Debug\formattingNumbers.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\formattingNumbers\bin\Debug\formattingNumbers.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\formattingNumbers\obj\Debug\formattingNumbers.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\formattingNumbers\obj\Debug\formattingNumbers.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\formattingNumbers\obj\Debug\formattingNumbers.csprojResolveAssemblyReference.cache

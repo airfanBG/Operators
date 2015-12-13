@@ -1,0 +1,5 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\fibonacci\bin\Debug\fibonacci.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\fibonacci\bin\Debug\fibonacci.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\fibonacci\bin\Debug\fibonacci.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\fibonacci\obj\Debug\fibonacci.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\fibonacci\obj\Debug\fibonacci.pdb

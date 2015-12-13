@@ -1,0 +1,5 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\greaterNumber\bin\Debug\greaterNumber.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\greaterNumber\bin\Debug\greaterNumber.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\greaterNumber\bin\Debug\greaterNumber.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\greaterNumber\obj\Debug\greaterNumber.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\greaterNumber\obj\Debug\greaterNumber.pdb

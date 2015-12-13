@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumof5numbers\bin\Debug\sumof5numbers.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumof5numbers\bin\Debug\sumof5numbers.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumof5numbers\bin\Debug\sumof5numbers.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumof5numbers\obj\Debug\sumof5numbers.csprojResolveAssemblyReference.cache
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumof5numbers\obj\Debug\sumof5numbers.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\sumof5numbers\obj\Debug\sumof5numbers.pdb

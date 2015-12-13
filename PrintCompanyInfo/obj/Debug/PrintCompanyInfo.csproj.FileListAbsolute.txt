@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.csprojResolveAssemblyReference.cache

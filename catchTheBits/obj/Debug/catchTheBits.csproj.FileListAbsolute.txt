@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\catchTheBits\bin\Debug\catchTheBits.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\catchTheBits\bin\Debug\catchTheBits.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\catchTheBits\bin\Debug\catchTheBits.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\catchTheBits\obj\Debug\catchTheBits.csprojResolveAssemblyReference.cache
+D:\programming\3.Input-output console\Intro-Programming-Homework\catchTheBits\obj\Debug\catchTheBits.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\catchTheBits\obj\Debug\catchTheBits.pdb

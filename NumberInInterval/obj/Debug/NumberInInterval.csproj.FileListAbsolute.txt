@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\NumberInInterval\bin\Debug\NumberInInterval.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\NumberInInterval\bin\Debug\NumberInInterval.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\NumberInInterval\bin\Debug\NumberInInterval.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\NumberInInterval\obj\Debug\NumberInInterval.csprojResolveAssemblyReference.cache
+D:\programming\3.Input-output console\Intro-Programming-Homework\NumberInInterval\obj\Debug\NumberInInterval.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\NumberInInterval\obj\Debug\NumberInInterval.pdb

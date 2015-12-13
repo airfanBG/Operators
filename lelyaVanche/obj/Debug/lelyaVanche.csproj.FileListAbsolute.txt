@@ -1,0 +1,6 @@
+D:\programming\3.Input-output console\Intro-Programming-Homework\lelyaVanche\bin\Debug\lelyaVanche.exe.config
+D:\programming\3.Input-output console\Intro-Programming-Homework\lelyaVanche\bin\Debug\lelyaVanche.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\lelyaVanche\bin\Debug\lelyaVanche.pdb
+D:\programming\3.Input-output console\Intro-Programming-Homework\lelyaVanche\obj\Debug\lelyaVanche.csprojResolveAssemblyReference.cache
+D:\programming\3.Input-output console\Intro-Programming-Homework\lelyaVanche\obj\Debug\lelyaVanche.exe
+D:\programming\3.Input-output console\Intro-Programming-Homework\lelyaVanche\obj\Debug\lelyaVanche.pdb
